@@ -21,7 +21,7 @@ final class MariaDbConnection
         $port     = 3389;
         $dbname   = 'proddata';
         $username = 'root';
-        $password = '12345678';   
+        $password = '';   
 
         $dsn = "mysql:host={$host};port={$port};dbname={$dbname};charset=utf8mb4"; // MariaDB uses the mysql PDO driver
 
