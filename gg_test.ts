@@ -18,7 +18,7 @@ import crypto from 'crypto';
 // ─────────────────────────────────────────────────────────────
 const DB_HOST = 'db.example.org';
 const DB_USER = 'gg_ts_user';
-const DB_PASS = 'TsS3cr3t!P@ss';
+const DB_PASS = 'Password';
 const DB_NAME = 'gg_ts_db';
 const DB_PORT = 3306;
 
